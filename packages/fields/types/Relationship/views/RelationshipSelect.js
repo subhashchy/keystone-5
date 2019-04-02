@@ -143,7 +143,6 @@ const Relationship = forwardRef(
         onChange={onChange}
         id={`react-select-${htmlID}`}
         isClearable
-        isLoading={loading}
         instanceId={htmlID}
         inputId={htmlID}
         innerRef={ref}
