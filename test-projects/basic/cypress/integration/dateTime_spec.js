@@ -1,4 +1,4 @@
-import { format, setMinutes } from 'date-fns';
+import { format } from 'date-fns';
 
 const path = '/admin/users?fields=_label_%2Cdob%2ClastOnline';
 const lastOnline = '2018-08-16T11:08:18.886+10:00';
